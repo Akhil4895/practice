@@ -17,7 +17,7 @@ git config --global user.name "<value>"
 * Set email
 
 ```
-git config --global user.name "<value>"
+git config --global user.email "<value>"
 ```
 ## Git & Notepad++
 
